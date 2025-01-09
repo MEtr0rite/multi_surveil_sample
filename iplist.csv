@@ -1,0 +1,14 @@
+19,19-1,data\19-1video.mp4
+19,19-2,data\19-2video.mp4
+19,19-3,data\19-3video.mp4
+19,19-4,data\19-4video.mp4
+18,18-1,rtsp://admin:SHZD12345@192.168.102.43:554/STreaming/Channels/101
+18,18-2,rtsp://admin:SHZD12345@192.168.102.44:554/STreaming/Channels/101
+18,18-3,rtsp://admin:SHZD12345@192.168.102.136:554/STreaming/Channels/101
+18,18-4,rtsp://admin:SHZD12345@192.168.102.137:554/STreaming/Channels/101
+20,20-1,rtsp://admin:SHZD12345@192.168.102.49:554/STreaming/Channels/101
+20,20-2,rtsp://admin:SHZD12345@192.168.102.50:554/STreaming/Channels/101
+20,20-3,rtsp://admin:SHZD12345@192.168.102.140:554/STreaming/Channels/101
+20,20-4,rtsp://admin:SHZD12345@192.168.102.51:554/STreaming/Channels/101
+20,20-5,rtsp://admin:SHZD12345@192.168.102.52:554/STreaming/Channels/101
+
